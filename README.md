@@ -14,12 +14,4 @@ In this work, we propose a neural network architecture that is capable to genera
 
 ![](https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/outline.png)
 
-HTML `img` tag:
-
-<img align="right" src="https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/outline.png" width=96>
-
-Markdown image:
-
-![kitties!](https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/outline.png){:align="right" width="96px"}
-
 We used the ability of the model outlined by Turkogluet al. to generate video sequences with different backgrounds but same (or controlled) fingertip and hand as in the reference input image. The proposed framework sequentially composes a scene, breaking down the underlying problem into foreground and background separately. Our approach utilises the foreground generator as proposed by Turkoglu et al. to superimpose elements over the given background.  Such a network allows us to control various properties, including fingertip location, as well as hand’s shape and appearance.
