@@ -20,4 +20,6 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 
 # Results
 
-![no-alignment]({{ '/imgs/domain_shift.pdf' | absolute_url }})
+![no-alignment]({{ '/imgs/fig_inputoutput-1.jpg' | absolute_url }})
+
+![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }})
