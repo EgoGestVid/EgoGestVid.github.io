@@ -24,16 +24,18 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 **Using CycleGAN**
 
 ![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }}){:height="50%" width="50%" .align-center}
-**Generated using our approach.**
-<br>Clearly, images are more clearer and the segmentation masks give us control of the fingertip location, hand's appearance, so on.
+<br>**Generated using our approach.**
+<br>Clearly, images are more clearer and the segmentation masks give us control over the fingertip location, hand's appearance, shape, size and so on.
 
 # Gestures generated
 
 Our approach gives us the capability to generate a very large synthetic egocentric gesture pointing dataset. A few examples are shown below:
 
 <ul>
-  <li> A circle pointing gesture ![no-alignment]({{ '/imgs/circle-1.jpg' | absolute_url }}){:height="50%" width="50%"} </li> 
-  <li> A square pointing gesture ![no-alignment]({{ '/imgs/square.png' | absolute_url }}){:height="50%" width="50%"} </li>
+  <li> A circle pointing gesture 
+    ![no-alignment]({{ '/imgs/circle-1.jpg' | absolute_url }}){:height="50%" width="50%"} </li> 
+  <li> A square pointing gesture 
+    ![no-alignment]({{ '/imgs/square.png' | absolute_url }}){:height="50%" width="50%"} </li>
 </ul>
 
 
