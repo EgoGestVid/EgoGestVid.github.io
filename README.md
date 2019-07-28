@@ -45,9 +45,9 @@ Our approach gives us the capability to generate a very large synthetic egocentr
 </p>
   
 # Video
-
+<p align="center">
 <a href="https://youtu.be/M5ADsP4l9Zo" target="_blank"><img height="50%" width="50%" src="/imgs/video.png" border="50" /></a>
-
+</p>
 
 
 
