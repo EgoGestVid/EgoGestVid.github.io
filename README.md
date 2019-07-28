@@ -41,7 +41,7 @@ Our approach gives us the capability to generate a very large synthetic egocentr
   
 -  **A square pointing gesture** <br>
 <p align="center">
-  <img height="50%" width="50%" src="/imgs/square.jpg">
+  <img height="50%" width="50%" src="/imgs/square.png">
 </p>
   
 
