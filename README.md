@@ -23,7 +23,7 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 ![no-alignment]({{ '/imgs/fig_inputoutput-1.jpg' | absolute_url }})
 Obtained using CycleGAN
 
-![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }}){:height="50%" width="50%"; : .align-center}
+![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }}){:height="50%" width="50%" : .align-center}
 Generated using our approach. Clearly, images are more clearer and the segmentation masks give us control of the fingertip location, hand's appearance, so on.
 
 # Gestures generated
