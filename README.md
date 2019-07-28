@@ -9,7 +9,7 @@ Hand gestures are a natural means of interaction in Augmented Reality and Virtua
 ![](https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/framework.png)
 ![no-alignment]({{ '/imgs/framework.png' | absolute_url }})
 
-In this work, we propose a neural network architecture that is capable to generating a sequence of video frames given an input mask layout. These masks passed in succession to the generator network results in a video sequence with given background image. We can even use different a video sequence as input (passed successively) for the background. This results in videos with both static and dynamic backgrounds.
+In this work, we propose a neural network architecture that is capable of generating a sequence of video frames given an input mask layout. These masks passed in succession to the generator network results in a video sequence with given background image. We can even use different video frames as input (passed successively) for the background. This results in videos with both static and dynamic backgrounds.
 
 # Framework
 
@@ -20,10 +20,10 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 
 # Results
 
-**Using CycleGAN**<br>
+- **Using CycleGAN**<br>
 ![no-alignment]({{ '/imgs/fig_inputoutput-1.jpg' | absolute_url }})
 
-**Synthesised using our approach.**<br>
+- **Synthesised using our approach.**<br>
 ![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }}){:height="50%" width="50%" .align-center}
 
 <br>Clearly, images are more clearer and the segmentation masks give us control over the fingertip location, hand's appearance, shape, size and so on.
