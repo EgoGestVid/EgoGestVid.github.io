@@ -27,7 +27,6 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 <p align="center">
   <img height="50%" width="50%" src="/imgs/domain_shift-1.jpg">
 </p>
-![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }}){:height="50%" width="50%"}
 
 <br>Clearly, images are more clearer and the segmentation masks give us control over the fingertip location, hand's appearance, shape, size and so on.
 
@@ -36,10 +35,14 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 Our approach gives us the capability to generate a very large synthetic egocentric gesture pointing dataset. A few examples are shown below:
 
 - **A circle pointing gesture** <br>
-  ![no-alignment]({{ '/imgs/circle-1.jpg' | absolute_url }}){:height="50%" width="50%"} 
+<p align="center">
+  <img height="50%" width="50%" src="/imgs/circle-1.jpg">
+</p>
   
 -  **A square pointing gesture** <br>
-  ![no-alignment]({{ '/imgs/square.png' | absolute_url }}){:height="50%" width="50%"} 
+<p align="center">
+  <img height="50%" width="50%" src="/imgs/square.jpg">
+</p>
   
 
 
