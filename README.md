@@ -7,6 +7,7 @@ Hand gestures are a natural means of interaction in Augmented Reality and Virtua
 # Idea
 
 ![](https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/framework.png)
+![no-alignment]({{ '/imgs/framework.png' | absolute_url }})
 
 In this work, we propose a neural network architecture that is capable to generating a sequence of video frames given an input mask layout. These masks passed in succession to the generator network results in a video sequence with given background image. We can even use different a video sequence as input (passed successively) for the background. This results in videos with both static and dynamic backgrounds.
 
@@ -14,7 +15,5 @@ In this work, we propose a neural network architecture that is capable to genera
 
 ![](https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/outline.png)
 ![no-alignment]({{ '/imgs/outline.png' | absolute_url }})
-
-
 
 We used the ability of the model outlined by Turkogluet al. to generate video sequences with different backgrounds but same (or controlled) fingertip and hand as in the reference input image. The proposed framework sequentially composes a scene, breaking down the underlying problem into foreground and background separately. Our approach utilises the foreground generator as proposed by Turkoglu et al. to superimpose elements over the given background.  Such a network allows us to control various properties, including fingertip location, as well as hand’s shape and appearance.
