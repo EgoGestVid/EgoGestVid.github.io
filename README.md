@@ -21,7 +21,11 @@ We used the ability of the model outlined by Turkogluet al. to generate video se
 # Results
 
 - **Using CycleGAN**<br>
-![no-alignment]({{ '/imgs/fig_inputoutput-1.jpg' | absolute_url }})
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/outline.png">
+</p>
+
+#<p align="center">![no-alignment]({{ '/imgs/fig_inputoutput-1.jpg' | absolute_url }})
 
 - **Synthesised using our approach.**<br>
 ![no-alignment]({{ '/imgs/domain_shift-1.jpg' | absolute_url }}){:height="50%" width="50%"}
