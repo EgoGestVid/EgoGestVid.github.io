@@ -4,6 +4,11 @@ Synthetic Video Generation Framework for Robust Hand Gesture Recognition in Augm
 # Abstract
 Hand gestures are a natural means of interaction in Augmented Reality and Virtual Reality (AR/VR) applications. Recently, there has been an increased focus on removing the dependence of accurate hand gesture recognition on complex sensor setup found in expensive proprietary devices such as the Microsoft HoloLens, Daqri and Meta Glasses. Most such solutions either rely on multi-modal sensor data or deep neural networks that can benefit greatly from abundance of labelled data. Datasets are an integral part of any deep learning based research. They have been the principal reason for the substantial progress in this field, both, in terms of providing enough data for the training of these models, and, for benchmarking competing algorithms. However, it is becoming increasingly difficult to generate enough labelled data for complex tasks such as hand gesture recognition.
 
+
+# Video
+{% include youtubePlayer.html id=page.M5ADsP4l9Zo %}
+
+
 # Idea
 
 ![](https://github.com/EgoGestVid/EgoGestVid.github.io/blob/master/imgs/framework.png)
@@ -44,13 +49,8 @@ Our approach gives us the capability to generate a very large synthetic egocentr
   <img height="50%" width="50%" src="/imgs/square.png">
 </p>
   
-# Video
+<!-- # Video
 <p align="center">
 <a href="https://youtu.be/M5ADsP4l9Zo" target="_blank"><img height="50%" width="50%" src="/imgs/video.png" border="50" /></a>
 </p>
-
-
-
-
-
-
+ -->
