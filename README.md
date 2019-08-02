@@ -6,7 +6,11 @@ Hand gestures are a natural means of interaction in Augmented Reality and Virtua
 
 
 # Video
-{ youtubePlayer.html }
+```html
+	<div class="video-responsive">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/M5ADsP4l9Zo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
+```
 
 
 # Idea
